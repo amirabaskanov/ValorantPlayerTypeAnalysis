@@ -1,4 +1,5 @@
 import subprocess
+import sys
 subprocess.check_call([sys.executable, "-m", "pip", "install", "streamlit"])
 subprocess.check_call([sys.executable, "-m", "pip", "install", "pandas"])
 subprocess.check_call([sys.executable, "-m", "pip", "install", "matplotlib"])
@@ -15,7 +16,7 @@ import pandas as pd
 import numpy as np
 from sklearn.cluster import AgglomerativeClustering, KMeans
 from sklearn.metrics import silhouette_score
-import sys
+
 
 pd.set_option('display.max_rows', None)
 pd.set_option('display.max_columns', None)
