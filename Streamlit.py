@@ -1,3 +1,4 @@
+import subprocess
 subprocess.check_call([sys.executable, "-m", "pip", "install", "streamlit"])
 subprocess.check_call([sys.executable, "-m", "pip", "install", "pandas"])
 subprocess.check_call([sys.executable, "-m", "pip", "install", "matplotlib"])
@@ -7,7 +8,7 @@ import streamlit as st
 import pandas as pd
 import plotly.graph_objs as go
 import plotly.subplots as sp
-import subprocess
+
 #subprocess.run(["streamlit", "run", "Streamlit.py"])
 
 import pandas as pd
