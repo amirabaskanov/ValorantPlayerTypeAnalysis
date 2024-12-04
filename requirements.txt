@@ -1,4 +1,4 @@
-matplotlib
+plotly
 streamlit
 scikit-learn
 pandas
