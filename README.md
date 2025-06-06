@@ -1,6 +1,8 @@
-# Clustering Players and Finding the Most Optimal Team Composition for Winning Valorant Championships
+# Clustering Player Archetypes to Optimize Team Composition in Valorant Esports
 
-Final Presentation on Canva:
+An unsupervised learning approach using Agglomerative Clustering to identify player types and recommend optimal team structures for maximizing win rates in Valorant tournaments.
+
+Check out our Final Presentation on Canva for more details and visuals:
 [Canva](https://www.canva.com/design/DAGYSwPYyqE/CKahogz9JaEHQaFNJhuLSQ/view?utm_content=DAGYSwPYyqE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8d2c2c8810)
 
 <img width="1710" alt="Screenshot 2024-12-04 at 1 08 26 PM" src="https://github.com/user-attachments/assets/a655848e-0def-4548-b4ce-dc8484e7ff1b">
